@@ -40,4 +40,4 @@ I also learned how to integrate the front-end and back-end of an app and how to 
   npm install
   npm start
   ```
-3. Make sure to grab the FaceBot-Api for the back-end part of this project
+3. Make sure to grab the FaceBot-Api for the back-end part of this project [here](https://github.com/DioCar84/facebot-api)
